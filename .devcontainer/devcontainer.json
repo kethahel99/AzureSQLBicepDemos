@@ -4,6 +4,8 @@
 		"ghcr.io/devcontainers/features/azure-cli:1": {},
 		"ghcr.io/rchaganti/vsc-devcontainer-features/azurebicep:1": {},
 		"ghcr.io/azure/azure-dev/azd:0": {},
-		"ghcr.io/devcontainers-contrib/features/aztfexport:1": {}
+		"ghcr.io/devcontainers-contrib/features/aztfexport:1": {},
+		"ghcr.io/devcontainers/features/powershell:1": {},
+		"ghcr.io/devcontainers-contrib/features/powerbi-visuals-tools:2": {}
 	}
 }
